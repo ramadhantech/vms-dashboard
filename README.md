@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Visitor Management System (VMS)
+
+## Features
+- Authentication & Authorization
+- Department Approval Workflow
+- Check-In / Check-Out
+- QR Code Integration
+- Dashboard Analytics
+
+## Tech Stack
+Frontend:
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+Backend:
+- ASP.NET Core Web API
+- PostgreSQL
+
+## Installation
+
 ## Getting Started
 
 First, run the development server:
