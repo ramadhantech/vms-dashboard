@@ -20,6 +20,26 @@ Backend:
 - PostgreSQL
 
 ## Installation
+## Frontend Setup
+
+```bash
+npm install
+npm run dev
+```
+
+Frontend runs on:
+http://localhost:3000
+
+## Backend Setup
+
+```bash
+dotnet restore
+dotnet run
+```
+
+Backend runs on:
+https://localhost:7091
+
 
 ## Getting Started
 
